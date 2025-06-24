@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "2755a8ae7d28ed1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa579ad4e7d1b3f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19892139efbc7ba5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/unknown_filename.png"
+              },
+              "icon": "lucide-image",
+              "title": "unknown_filename"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83845a678eeabfb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7b426333b58812e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "677444d2e5dfd31d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dc7834ad96cdedcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "695c39129512c1b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c559855905c2df2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b5065017d882bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd6477702e9230e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025.06.21 再见, 印象笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025.06.21 再见, 印象笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "1d8001439ed0f60f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025.06.21 再见, 印象笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025.06.21 再见, 印象笔记 的出链列表"
+            }
+          },
+          {
+            "id": "39f6dcb751cd8b0d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "12e5c536b9c31675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025.06.21 再见, 印象笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025.06.21 再见, 印象笔记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "19892139efbc7ba5",
+  "lastOpenFiles": [
+    "xunzhaozisu.md",
+    "images/unknown_filename.png",
+    "2025.06.21 再见, 印象笔记.md",
+    "images",
+    "新建文件夹",
+    "hello-world.md",
+    "欢迎.md",
+    "收藏/众生相/_resources/xunzhaozisu.resources",
+    "收藏/众生相/_resources",
+    "收藏/众生相",
+    "收藏"
+  ]
+}
