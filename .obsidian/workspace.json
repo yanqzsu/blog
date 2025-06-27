@@ -166,13 +166,23 @@
               "icon": "lucide-list",
               "title": "欢迎 的大纲"
             }
+          },
+          {
+            "id": "5063db456138b6df",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +191,17 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7d26f1ac3adb006",
+  "active": "5063db456138b6df",
   "lastOpenFiles": [
+    "source/_posts/imagesunknown_filename - 副本.png",
+    "source/_posts/images1123.png",
+    "source/_posts/images/联想截图_20250424175652.png",
+    "source/_posts/images/unknown_filename - 副本.png",
+    "source/_posts/images",
     "欢迎.md",
     "source/_posts/2025.06.21 再见, 印象笔记.md",
     "qinger.md",
