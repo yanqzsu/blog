@@ -11,10 +11,14 @@
             "id": "536bd0bae6944ba5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "scaffolds/post.md",
+                "bFile": "scaffolds/post.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: post"
             }
           }
         ]
@@ -162,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 510.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,16 +176,21 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "hide-folders:Show hidden folders": false
     }
   },
-  "active": "5063db456138b6df",
+  "active": "536bd0bae6944ba5",
   "lastOpenFiles": [
+    "source/_posts/2025.03.07 张居正.md",
+    "source/_posts/2025.06.21 再见, 印象笔记.md",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
     "source/_posts/imagesunknown_filename - 副本.png",
     "source/_posts/images1123.png",
     "source/_posts/images/unknown_filename - 副本.png",
     "source/_posts/images/联想截图_20250424175652.png",
-    "source/_posts/2025.06.21 再见, 印象笔记.md",
     "source/_posts/images",
     "欢迎.md",
     "qinger.md",
