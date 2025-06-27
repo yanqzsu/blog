@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "source/_posts",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "scaffolds/",
+    "source/"
+  ],
+  "attachmentFolderPath": "attachments"
+}
